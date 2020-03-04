@@ -8,7 +8,7 @@ export default {
   },
   schema: {
     maxAnswerLength: 40,
-    maxQuestionLength: 100,
+    maxQuestionLength: 200,
     maxNumberOfChoices: 4,
     minNumberOfChoices: 2,
     defaultTimeLimit: 30
