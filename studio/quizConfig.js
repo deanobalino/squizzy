@@ -1,7 +1,7 @@
 export default {
   localWebHost: 'http://localhost:3000', // default Vue port
   localApiHost: 'http://localhost:3000', // default Now API port
-  remoteWebHost: 'squizzy-e3gvl1w9k.now.sh',
+  remoteWebHost: 'squizzy.deanbryen.now.sh',
   match: {
     correctAnswerScore: 100,
     firstAnswerScore: 50
