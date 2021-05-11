@@ -28,7 +28,7 @@
     "@sanity/uuid": "^0.147.0",
     "@sanity/vision": "^0.147.4",
     "date-fns": "^2.8.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "prop-types": "^15.6",
     "qrcode.react": "^1.0.0",
     "react": "^16.2",
